@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [Bot pre BUILD#4];
+const statusMessages = [Bot pre BUILD#4.];
 
 
 let currentIndex = 0;
